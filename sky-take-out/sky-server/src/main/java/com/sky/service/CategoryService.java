@@ -9,6 +9,7 @@ import java.util.List;
 public interface CategoryService {
 
     /**
+     * 测试GIT --wz520
      * 新增分类
      * @param categoryDTO
      */
